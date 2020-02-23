@@ -1,2 +1,6 @@
 # Adversarial-learning-for-tag-recommendation
-Adversarial Learning for Personalized Tag Recommendation
+
+A deep learning model for learning user history, and applying that history to improve future predictions!
+
+![Framework](https://github.com/vyzuer/ALTReco/blob/master/images/framework.pdf)
+
